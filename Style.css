@@ -1,4 +1,10 @@
 body {
     background-image: url("10943655.jpg");
-    background-size: 100%;
+    background-size: 100%;   
+}
+
+.Video {
+    margin-top: 20%;
+    width: 1450;
+    height: 1450;
 }
