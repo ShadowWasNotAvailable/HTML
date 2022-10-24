@@ -1,34 +1,21 @@
 body {
-    background-image: url("10943655.jpg");
+    background-image: url("Terminal-effect.png");
     background-size: 100%;  
-    background-repeat: no-repeat;
 }
 
 .Picture {
 
     width: 500px;
     margin: 50px;
+}
 
+.flag {
+    width: 55px;
+    height: 50px;
 }
 
 .Text{
     color: rgb(0, 255, 0);
-}
-
-.i-text1npos{
-    color: rgb(0, 255, 0);
-    height: 100%;
-}
-
-.i-text2{
-    color: rgb(0, 255, 0);
-    margin-top: 20px;
-    height: 100%;
-}
-
-.i-text3{
-    color: rgb(0, 255, 0);
-    height: 100%;
 }
 
 .Container {
@@ -52,7 +39,8 @@ body {
 
 
 }
-.inf-pos {
+
+.gen-pos {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -60,8 +48,51 @@ body {
     height: 5%;
     margin-top: 590px;
     margin-right: 80px;
-
-    
 }
+
+.i-textpos{
+    margin-top: 25px;
+    height: 100%;
+}
+
+.i-introsize {
+    font-size: 23px;
+    margin-top: 25px;
+}
+
+.r-textpos{
+    margin-top: 15px;
+    height: 100%;
+}
+
+.r-introsize {
+    font-size: 26px;
+    margin-top: 30px;
+}
+.r-introsizefix {
+    font-size: 40px;
+    margin-top: 200px;
+}
+
+.TDPicture {
+    width: 300px;
+    margin: 50px;
+}
+
+.DPicture {
+    margin: -50px;
+    width: 300px;
+}
+.divisionpic-pos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 5%;
+    margin-top: 650px;
+    margin-right: 80px;
+}
+
+
 
 
